@@ -1,6 +1,6 @@
 <h1 align="center">
    <a><img src="https://github.com/phuoctan4141/phuoctan4141/blob/main/headcolor.svg"/></a>
-   <a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/></a>
+   <a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50"/></a>
 </h1>
 
 <p align="center">
