@@ -1,4 +1,4 @@
-<h1 align="center" color=green>
+<h1 align="center">
    Welcome to phuoctan4141's profile!
    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
